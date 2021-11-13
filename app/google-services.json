@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "190360937685",
+    "project_id": "foodapp-6c3dd",
+    "storage_bucket": "foodapp-6c3dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190360937685:android:829f9b5c0f1625cea7ee5c",
+        "android_client_info": {
+          "package_name": "com.example.easykool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190360937685-7htp61k262h0kdmheakjocafojctba67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbnf_PVVj_tvcThSx_YOVzVgFtOtPgFvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190360937685-7htp61k262h0kdmheakjocafojctba67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190360937685:android:d9b9a7d44972e516a7ee5c",
+        "android_client_info": {
+          "package_name": "com.hassoun.absenceehtp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190360937685-7htp61k262h0kdmheakjocafojctba67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbnf_PVVj_tvcThSx_YOVzVgFtOtPgFvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190360937685-7htp61k262h0kdmheakjocafojctba67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
